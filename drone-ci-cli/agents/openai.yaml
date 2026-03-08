@@ -1,0 +1,4 @@
+interface:
+  display_name: "Drone CLI"
+  short_description: "Work with the Drone CI CLI"
+  default_prompt: "Use $drone-ci-cli to inspect builds, repos, secrets, or templates with the installed Drone CLI."

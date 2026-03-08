@@ -1,5 +1,5 @@
 ---
-name: drone-skill
+name: drone-ci-cli
 description: Operate the installed Drone CI command line client to inspect or manage builds, repositories, secrets, logs, cron jobs, templates, users, and local pipeline execution. Use when Codex needs to run `drone` commands, discover exact CLI syntax with `--help`, troubleshoot Drone CLI usage, or cross-reference the official Drone CLI docs while working against a Drone server.
 ---
 

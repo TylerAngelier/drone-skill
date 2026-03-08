@@ -22,7 +22,7 @@ If you are not running the command from this repository root, replace `$(pwd)/dr
 If the symlink already exists, remove it first or replace it with:
 
 ```bash
-ln -sfn "$(pwd)/coolify-cli" ~/.agents/skills/coolify-cli
+ln -sfn "$(pwd)/drone-ci-cli" ~/.agents/skills/drone-ci-cli
 ```
 
 ## Use
